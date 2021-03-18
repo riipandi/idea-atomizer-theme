@@ -1,0 +1,11 @@
+{
+  "name": "Atomizer",
+  "dark": true,
+  "editorScheme": "/themes/atomizer.xml",
+  "ui": {
+    "*": {
+      "background": "#21252B",
+      "foreground": "#9DA5B4"
+    }
+  }
+}
